@@ -1,8 +1,4 @@
-# Accessible Website
-
-Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
-
-De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md)
+![image](https://github.com/user-attachments/assets/cae7249d-c0ac-4c06-b725-d4283c4f7286)
 
 ## Inhoudsopgave
 
@@ -12,12 +8,21 @@ De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Bieb in Bloei is een samenwerking tussen HVA en OBA. Met dit project willen ze om mensen samen te laten komen. Studenten en de bewoners uit de buurt kunnen elkaar beter leren kennen. Het doel is om een veilige comunity te creeëren. Naast dat je sociaal bent in de bieb in bloei kom je ook meer te weten over de planten die in de bieb zijn.
+
+## Wat ga ik doen?
+Ik heb de stekjes pagina gekregen, ik wil de pagina graag wat meer interactief maken. Ik wil zorgen dat Harry de plantenpot je meeneemt door alle beschikbare stekjes en hierbij de informatie geeft die je moet weten over de plantjes. Hierbij is het vooral belangrijk dat mensen ook weten hoe ze het stekje zo goed mogenlijk verzorgen, hierover komt dus ook informatie en dit wil ik ook interactief maken doormiddel van bijvoorbeeld een stralend zonnetje die aangeeft hoeveel zon/licht het plantje nodig heeft.
+Het eindresultaat moet een website worden waardoor je het gevoel hebt dat je bijna vrienden zou willen worden met Harry en zijn stekjes. 
+
+## Huidig resultaat van de [website](https://anoukderooij24.github.io/the-client-website/) 
+De webpagina bestaat nu uit een hele basic opzet van de stekjes pagina. Ik heb geprobeerd om het ontwerp goed in door te laten komen. Harry moet nog toegevoegd worden. Daarnaast heb ik deze sprint vooral heel veel getest op toegangkelijkheid. De website is volldig te bedienen met een toetsenbord, het contrast in de footer was heel erg laag. Deze heb ik daarom aangepast naar zwart op geel ipv. lichtgroen op geel. 
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+De header afbeelding kostte veel tijd! Ik was super blij dat hij uiteindelijk gelukt was, met de gradient overlay eroverheen.
+![image](https://github.com/user-attachments/assets/e0b9766c-d0e6-4e09-95b2-02a0ce91e64e)
+![image](https://github.com/user-attachments/assets/2e86439d-d77e-48b0-9313-a8f462ca061b)
+
+De bovenste afbeelding is mijn HTML en de onderste is de CSS.
 
 ## Bronnen
 
